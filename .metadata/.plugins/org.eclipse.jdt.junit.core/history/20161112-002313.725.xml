@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="SimpleStocksUnitaryTests" project="super-simple-stocks" tests="6" started="6" failures="0" errors="0" ignored="0">
+  <testsuite name="es.lvacas.simplestocks.tests.SimpleStocksUnitaryTests" time="0.005">
+    <testcase name="test1_InsertingStocksInMemory" classname="es.lvacas.simplestocks.tests.SimpleStocksUnitaryTests" time="0.001"/>
+    <testcase name="test2_RecordingTrades" classname="es.lvacas.simplestocks.tests.SimpleStocksUnitaryTests" time="0.0"/>
+    <testcase name="test3_CalculateStockPriceTest" classname="es.lvacas.simplestocks.tests.SimpleStocksUnitaryTests" time="0.0"/>
+    <testcase name="test4_CalculateDividendYieldTest" classname="es.lvacas.simplestocks.tests.SimpleStocksUnitaryTests" time="0.0"/>
+    <testcase name="test5_CalculatePERatioTest" classname="es.lvacas.simplestocks.tests.SimpleStocksUnitaryTests" time="0.002"/>
+    <testcase name="test6_CalculateGBCEAllShareIndex" classname="es.lvacas.simplestocks.tests.SimpleStocksUnitaryTests" time="0.002"/>
+  </testsuite>
+</testrun>
