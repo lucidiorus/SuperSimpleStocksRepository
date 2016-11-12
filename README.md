@@ -23,12 +23,18 @@ To check the correct operation of the services, it has been implemented a JUnit 
 the operations of the application. 
 
 It has been designed 6 tests, that are passed in order.
+
 1 - The first test is carried out to insert the sample stocks given with the exercise and make different assertions.
+
 2 - The second test is carried out to record a set of trades invented for each stock, and check the records are done correctly.
+
 3 - The third test is carried out to calculate the stock price for some stocks and check the calculation in correct.
+
 4 - The fourth test is carried out to calculate de dividend yield for some stocks and check the calculation is correct.
+
 5 - The fifth test is carried out to calculate the P/E ratio for some stocks and check the calculation is correct.
-6 - The sixth test is carried out to calculate the GBCE all share index and check the calculation is correcct.
+
+6 - The sixth test is carried out to calculate the GBCE all share index and check the calculation is correct.
 
 To be able of check the correct operation of the methods implemented it has been design an excel sheet where the same
 data sample is inserted and the same operations are calculated
