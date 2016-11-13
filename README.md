@@ -40,4 +40,8 @@ To be able of check the correct operation of the methods implemented it has been
 data sample is inserted and the same operations are calculated
 https://github.com/lucidiorus/SuperSimpleStocksRepository/blob/master/Data%20Calculation%20for%20Testing.xlsx
 
+## Database Model
+Although it is not required for this exercise, a possible database model to store all the stocks and trades has been implemented using MySQL Workbench.
+![alt tag](https://github.com/lucidiorus/SuperSimpleStocksRepository/blob/master/entities_model.png)
+
 
