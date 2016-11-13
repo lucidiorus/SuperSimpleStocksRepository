@@ -26,7 +26,7 @@ It has been designed 6 tests, that are passed in order.
 
 1 - The first test is carried out to insert the sample stocks given with the exercise and make different assertions.
 
-2 - The second test is carried out to record a set of trades invented for each stock, and check the records are done correctly.
+2 - The second test is carried out to record a set of trades for each stock, and check the records have been done correctly.
 
 3 - The third test is carried out to calculate the stock price for some stocks and check the calculation in correct.
 
